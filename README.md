@@ -2,6 +2,10 @@
 # Machine learning samples
 This is a repo which intent to keep maximum sample machine learning projects done in python for learning porpose and for quick reference. This is an open source project and anyone is free and more than welcome to contribute. Happy coding :)
 
+## Samples projects
+### Clustering
+1. [Customer Spending score - Find Inference ](https://github.com/Sreedev/machinelearningsamples/tree/develop/Clustering/Customer%20spending%20score)
+
 ## Created & Maintained By
 [Sreedev](http://www.thelifeimprovised.com/)<br />
 [![Twitter Follow](https://img.shields.io/twitter/follow/sreedevr5?label=sreedev&style=social)](https://twitter.com/Sreedevr5)<br />
