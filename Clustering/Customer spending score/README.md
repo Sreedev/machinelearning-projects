@@ -1,7 +1,9 @@
 # Clustering using K means algorithm
 
 ## Problem statement: 
-## Perform Clustering for the customer spending and identify the number of clusters formed and draw inferences.
+## Draw the inferences regarding customer spending from the data provided using clustering.
+
+Dataset: [Customer spending segmentation](https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python)
 
 ### Data Description:
 CustomerID - Unique ID of each customer<br />
