@@ -3,7 +3,8 @@
 ## Problem statement: 
 ## Draw the inferences regarding customer spending from the data provided using clustering.
 
-Dataset: [Customer spending segmentation](https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python)
+### Dataset: 
+[Customer spending segmentation](https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python)
 
 ### Data Description:
 CustomerID - Unique ID of each customer<br />
