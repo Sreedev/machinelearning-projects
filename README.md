@@ -1,6 +1,6 @@
 ![Machine learning cover](https://p0.pxfuel.com/preview/729/37/117/advanced-ai-anatomy-artificial.jpg)
 # Machine learning samples
-This is a repo which intent to keep maximum sample machine learning projects done in python for learning porpose and for quick reference. This is an open source project and anyone is free and more than welcome to contribute. Happy coding :)
+This is a repo which intent to keep maximum sample machine learning projects done in python for learning porpose and for quick reference. This is an open source project and anyone is free and more than welcome to contribute. Happy coding.
 
 ## Samples projects
 ### Clustering
