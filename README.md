@@ -6,6 +6,9 @@ This is a repo which intent to keep maximum sample machine learning projects don
 ### Clustering
 1. [Customer Spending score - Find Inference ](https://github.com/Sreedev/machinelearningsamples/tree/develop/Clustering/Customer%20spending%20score)
 
+### Regression
+1. [US insurance- Predict charges using BMI]
+
 ## Created & Maintained By
 [Sreedev](http://www.thelifeimprovised.com/)<br />
 [![Twitter Follow](https://img.shields.io/twitter/follow/sreedevr5?label=sreedev&style=social)](https://twitter.com/Sreedevr5)<br />
